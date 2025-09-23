@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: stable
+Codename: noble
+Date: Tue, 23 Sep 2025 11:46:18 UTC
+Architectures: amd64 arm64
+Components: main
+MD5Sum:
+ 8bcc12503f5fbc5589e6ca0ac14720b9 9342 main/binary-amd64/Packages
+ fc60ae81b5a3d2b49ffaaeec6111bb73 2973 main/binary-amd64/Packages.gz
+ 82a1ae90445e5284617f8a8cc3a53fa4 52 main/binary-amd64/Release
+ 650dad2148dca8ced55c523d2c39aefc 9340 main/binary-arm64/Packages
+ 6094afe788fafb00afd0747a816323e4 2972 main/binary-arm64/Packages.gz
+ 5498dbe77aa0dcb78c11973ce245ab7b 52 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 2a323edc4e7693b3b1ac9f71443ad683 53 main/source/Release
+SHA1:
+ 7a8c95ebca68c76f97d94f95a88523671ff28a0e 9342 main/binary-amd64/Packages
+ d3ea6e7e83a61f01456cb916b18466643f6c3115 2973 main/binary-amd64/Packages.gz
+ 9b61d92e2c42866227d305db51276f4714da5cd9 52 main/binary-amd64/Release
+ 9c3c1ac8513ad0e39ac2ef4a4a0493a3ed7effe7 9340 main/binary-arm64/Packages
+ 02facb3f563bff5010de510b54601196f8784ec5 2972 main/binary-arm64/Packages.gz
+ 412007f10501e71d820922a3c7024b053e5d6c65 52 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 22270126d2c06a44709ced469ca246a21f5b6c2e 53 main/source/Release
+SHA256:
+ 775ef3ac88eeecf68991e089422e3b60156147d2ce3a4b2ea392c43938b62c79 9342 main/binary-amd64/Packages
+ 3117f618474026d790ac724716862445a5884b6c56a068aa2e66e2d3d4ef9c5c 2973 main/binary-amd64/Packages.gz
+ 5d14a4f1b270a16b7797dfa013f0d0d3325c616762714c6e9a34295a4d9be351 52 main/binary-amd64/Release
+ 105da7249eb916c0441ebbc400999983e395c283a84c72d5f5a69022e15e6d52 9340 main/binary-arm64/Packages
+ 87441379155a41458aafb090eb8e63e6e7300192504c33501f0917f25269002c 2972 main/binary-arm64/Packages.gz
+ e14031805a3100c88e2201a2b54df09cead928dbb722b9562f7a0b122256f016 52 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 33740b7ffc6ab6c9ce665b4b96de6606f3a3ace3f2cb36aec441602f84d664b3 53 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEYGLmdDJxSkYmaXc18H9ottahXq4FAmjSiIoACgkQ8H9ottah
+Xq47HxAAowBDGMj9EuAoO3caF2otc0MbP3B5oJkh5USKNNOh9HTE4/2E1VOuIC4z
++Srd0Fik1juvowGEr9h6gRf6KKMADjUr1t0CFaYWR8QcuYzCpAvIaZmjtq3ZmQ7U
+R3y3wglHKILax1diXQ+9tGsjtWOE0mVxnv/pI5etCXC6QHQzzsLMxMJQ56F6dBo1
+cehYoKmMHaTzXsrFCkXsUm9Nv3sb+NjoZl2hvLfOlB4hPQsUkMruH1+1fx/pomJG
+2VpvutM9YBtp4da+3V2rArwBy/7eo6zx2jgfXsHW8qIOFor9UeUu6lCuGeUD9Kdd
++NeXp/3QxHIvAPMOjvCiw2TwtQ5K5zi8Mf2qrLsCEo/Hd0bRlNqHYGudmz6kB08E
+37DsqVr/r9CezvMLziLQtDJ4jlT47v7VudrWSFaFPDtCk9ytGCCcTsBEsA9rNH3k
+x5+aZzNpHxiRBs6NxCr0dahsc72akKapPbqtauY8zEe1VnJhE7r1vL77KGbaOU9C
+p3JRtqhfBv4TNk4g8GatwJ9fM3lR3kK2cGChCoowT/bA5cLh2uCOzn1zOxyW0/BW
+uJ+f99+NayvYIHh0wci/QgtkYevaqcTxxf0pOsnG0kJ2FXrTk3Uc0HXHOPXQO5v+
+Zu3h7s3E7TilSHWRrqLEmCS5bAbj/IGNG5FC7rnLUB9cQ63N9EI=
+=qIAg
+-----END PGP SIGNATURE-----
